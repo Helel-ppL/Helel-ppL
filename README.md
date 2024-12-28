@@ -1,4 +1,4 @@
 - 👋 Heya, I’m Helel
 - 👀 I’m interested in learning as much as I possibly can to become better.
 - 🌱 I’m currently learning front-end web developing, started with HTML, CSS and JS so that's what I'll be sticking to for now.
-- 📫 How to reach me: Helel#2876
+- 📫 How to reach me: hailel (Discord)
